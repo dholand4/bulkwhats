@@ -7,4 +7,6 @@
 .wwebjs_cache/
 whatsapp_auth_data/
 
+/uploads
+
 http-server -p 8000
